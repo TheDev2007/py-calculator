@@ -1,6 +1,6 @@
 # Desktop GUI Calculator
-![Calculator Preview](preview.png)
 A Lightweight demo calculator built with Python. Features an interactive interface supporting basic arithmetic operations
+![Calculator Preview](preview.png)
 
 ## Features
 - Arithmetic operations
