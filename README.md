@@ -3,7 +3,10 @@ A Lightweight demo calculator built with Python. Features an interactive interfa
 
 <br>
 <div>
-   <img src="preview.png" alt="Calculator preview" width = 320> 
+   <img src="preview.png" alt="Calculator preview" width = 320>
+   <img src="Syntax error.png" alt="Syntax error preview" width = 320>
+   <img src="Arith error.png" alt="Arithmetic error preview" width = 320>
+   
 </div>
 <br>
 
