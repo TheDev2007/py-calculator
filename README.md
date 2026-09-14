@@ -33,7 +33,7 @@ Clone this repository:
 
 ```bash
 git clone https://github.com/TheDev2007/calculator.git
-cd calculator
+cd py-calculator
 ```
 
 Launch the application directly with:
