@@ -20,3 +20,24 @@ A Lightweight demo calculator built with Python. Features an interactive interfa
 - Tkinter (Framework)
 
 ## How to Run:
+
+### Prerequisites
+
+Make sure you have Python 3+ installed on your system. You can check your version by running:
+
+```bash
+python --version
+```
+### Installation:
+Clone this repository:
+
+```bash
+git clone [https://github.com/TheDev2007/calculator.git](https://github.com/TheDev2007/calculator.git)
+cd calculator
+```
+
+Launch the application directly with:
+```bash
+python calculator_demo.py
+```
+
