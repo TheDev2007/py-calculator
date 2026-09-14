@@ -32,7 +32,7 @@ python --version
 Clone this repository:
 
 ```bash
-git clone [https://github.com/TheDev2007/calculator.git](https://github.com/TheDev2007/calculator.git)
+git clone https://github.com/TheDev2007/calculator.git
 cd calculator
 ```
 
